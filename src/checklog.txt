@@ -1,2 +1,3 @@
 Created to check if data transition is smooth.
-#lol :)
+#lol 
+Data Transfered from Git to VC-Code.
