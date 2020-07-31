@@ -6,7 +6,7 @@ class CountCharacters extends React.Component {
     super(props);
     this.state = {
       message: "",
-      counter: 10,
+      //counter: 10,
     };
   }
 
